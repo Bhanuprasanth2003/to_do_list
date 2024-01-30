@@ -11,6 +11,10 @@ INSTRUCTIONS TO USE :
 -->TO DEL list
 >click on check box it gets deleted
 
+-->Route(/)
+>Can change the heading(Today) to other headings(Ex: WORK)
+>In url add /your_heading(Ex:https://to-do-list-ewhy.onrender.com/home)
+
 TECH STACK USED:
   - MONGO DB
   - EXPRESS
